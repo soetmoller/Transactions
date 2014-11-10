@@ -1,0 +1,6 @@
+/config.properties
+/controller/
+/database.properties
+/dto/
+/persistence/
+/servlet/
